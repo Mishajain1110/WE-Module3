@@ -1,0 +1,11 @@
+Test Case 1:
+Machine learning is a subset of artificial intelligence focused on creating algorithms that enable computers to learn from and make predictions or decisions based on data, without being explicitly programmed.
+
+Test Case 2:
+Natural language processing (NLP) deals with understanding and generating human language by employing algorithms and techniques that enable computers to interpret, analyze, and respond to textual or spoken input in a manner akin to human comprehension.
+
+Test Case 3:
+Neural networks are computational models inspired by the human brain.
+
+Test Case 4:
+Reinforcement learning is a type of machine learning algorithm focused on training agents to make sequential decisions to achieve goals through trial and error, guided by rewards or penalties from the environment.
